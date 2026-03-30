@@ -1,13 +1,18 @@
 ## Hi, my name is Connor 👋
 
-Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU. When I am not building software, I like to read, play games, and expand my knowledge.
+Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU. When I am not building software, I like to read, play games, and expanding my knowledge on programming, life skills, etc.
 
-##
+## Active Capstone Project: JobPop Web - Outer Snail Productions, LLC
+- JobPop has both a web application and mobile application that allows for businesses to create and fill out forms, such as an oil change checklist, and workflows in order to make collecting and organizing customer information and processing customers easier and faster.
+- Establishing a web application that helps business users develop and publish their own forms and wrokflows to the app. 
 
 ## Projects I am Currently Developing
 - Algorithm and Data Structure Visualizer
 - Mobile Application using Swift that prvodies a Patient Care System
 - Flight Visualizer
+
+## Other Projects
+- Currently in the process of committing complete projects to Github
 
 ## Languages and Tools
 <p align="center">
