@@ -11,7 +11,7 @@ Software Developer based in Arizona while currently pursuing a Bachelor's Degree
 
 ## Languages and Tools
 <p align="center">
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width = "50" height = "50" />
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   
   
