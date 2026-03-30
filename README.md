@@ -1,6 +1,22 @@
 ## Hi, my name is Connor 👋
 
-Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU
+Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU. When I am not building software, I like to read, play games, and expand my knowledge.
+
+##
+
+## Projects I am Currently Developing
+- Algorithm and Data Structure Visualizer
+- Mobile Application using Swift that prvodies a Patient Care System
+- Flight Visualizer
+
+## Languages and Tools
+<p align="center">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  
+  
+</p>
+          
 
 
 <!--
