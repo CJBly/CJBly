@@ -1,5 +1,6 @@
 ## Hi, my name is Connor 👋
 
+Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU
 
 
 <!--
