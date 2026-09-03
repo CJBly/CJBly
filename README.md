@@ -4,11 +4,18 @@ Software Developer based in Arizona while currently pursuing a Bachelor's Degree
 
 ## Active Capstone Project: JobPop Web - Outer Snail Productions, LLC
 - JobPop has both a web application and mobile application that allows for businesses to create and fill out forms, such as an oil change checklist, and workflows in order to make collecting and organizing customer information and processing customers easier and faster.
-- Establishing a web application that helps business users develop and publish their own forms and wrokflows to the app. 
+- Establishing a web application that helps business users develop and publish their own forms and workflows to the app.
+
+## Efficare
+- Efficare is an iOS application built using Swift that allows users to be either patients or healthcare providers, report conditions and their severity, have conversations with one another, and find the locations of the healthcare facilities near their location.
+- Utilizes SwiftUI to build and display the application, and SwiftData to store the local data of the user (*Important Note: Data is not shared across devices*)
+
+## Kanban Task Board
+- The Kanban Task Board is a website that allows users to add tasks with task information, move tasks based on level of completion, sort tasks by priority and search
+- Utilizes Vercel for hosting, Vite for framework, and Supabase for database management
 
 ## Projects I am Currently Developing
 - Algorithm and Data Structure Visualizer
-- Mobile Application using Swift that prvodies a Patient Care System
 - Flight Visualizer
 
 ## Other Projects
