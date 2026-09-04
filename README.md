@@ -15,6 +15,7 @@ Software Developer based in Arizona while currently pursuing a Bachelor's Degree
 - The Kanban Task Board is a website that allows users to add tasks with task information, move tasks based on level of completion, sort tasks by priority and search
 - Utilizes Vercel for hosting, Vite for framework, and Supabase for database management
 - https://github.com/CJBly/Kanban-Task-Board
+- Website Link: https://kanban-task-board-gold.vercel.app
 
 ## Projects I am Currently Developing
 - Algorithm and Data Structure Visualizer
