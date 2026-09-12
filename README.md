@@ -5,7 +5,6 @@
 </p>
 
 <hr>
-<br>
 
 ## About Me
 Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU. When I am not building software, I like to read, play games, and expanding my knowledge on programming, life skills, etc.
