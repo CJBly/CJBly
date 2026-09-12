@@ -3,7 +3,10 @@
 <p align="center">
   Computer Science Student @ Arizona State University
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/connor-j-bly/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connor%20Bly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 <hr>
 
 ## About Me
