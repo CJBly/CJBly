@@ -7,32 +7,45 @@
   <a href="https://www.linkedin.com/in/connor-j-bly/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connor%20Bly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
 <hr>
 
 ## About Me
-Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU. When I am not building software, I like to read, play games, and expanding my knowledge on programming, life skills, etc.
+I am currently pursuing a Bachelor's Degree in Computer Science with a concentration in Software Engineering, as well as a Minor in Data Science. I am also pursuing a Master's Degree in Computer Science after my admission to the Accelerated Masters program. When I am not building software, I like to read, play games, and expanding my knowledge on programming, life skills, etc.
 
-## Active Capstone Project: JobPop Web - Outer Snail Productions, LLC
+<hr>
+
+## Technical Interests
+
+<hr>
+
+## Current Focus
+
+<hr>
+
+## Projects
+
+### Active Capstone Project: JobPop Web - Outer Snail Productions, LLC
 - JobPop has both a web application and mobile application that allows for businesses to create and fill out forms, such as an oil change checklist, and workflows in order to make collecting and organizing customer information and processing customers easier and faster.
 - Establishing a web application that helps business users develop and publish their own forms and workflows to the app.
 
-## Efficare
+### Efficare
 - Efficare is an iOS application built using Swift that allows users to be either patients or healthcare providers, report conditions and their severity, have conversations with one another, and find the locations of the healthcare facilities near their location.
 - Utilizes SwiftUI to build and display the application, and SwiftData to store the local data of the user (*Important Note: Data is not shared across devices*)
 - https://github.com/CJBly/EffiCare
 
-## Kanban Task Board
+### Kanban Task Board
 - The Kanban Task Board is a website that allows users to add tasks with task information, move tasks based on level of completion, sort tasks by priority and search
 - Utilizes Vercel for hosting, Vite for framework, and Supabase for database management
 - https://github.com/CJBly/Kanban-Task-Board
 - Website Link: https://kanban-task-board-gold.vercel.app
 
-## Projects I am Currently Developing
+### Projects I am Currently Developing
 - Algorithm and Data Structure Visualizer
 - Flight Visualizer
 
-## Other Projects
-- Currently in the process of committing complete projects to Github
+<hr>
 
 ## 🛠️ Tech Stack
 
