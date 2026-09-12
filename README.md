@@ -33,13 +33,13 @@ I am currently pursuing a Bachelor's Degree in Computer Science with a concentra
 ### Efficare
 - Efficare is an iOS application built using Swift that allows users to be either patients or healthcare providers, report conditions and their severity, have conversations with one another, and find the locations of the healthcare facilities near their location.
 - Utilizes SwiftUI to build and display the application, and SwiftData to store the local data of the user (*Important Note: Data is not shared across devices*)
-- https://github.com/CJBly/EffiCare
+- 🔗 [GitHub Repository] https://github.com/CJBly/EffiCare
 
 ### Kanban Task Board
 - The Kanban Task Board is a website that allows users to add tasks with task information, move tasks based on level of completion, sort tasks by priority and search
 - Utilizes Vercel for hosting, Vite for framework, and Supabase for database management
-- https://github.com/CJBly/Kanban-Task-Board
-- Website Link: https://kanban-task-board-gold.vercel.app
+- 🔗 [GitHub Repository] https://github.com/CJBly/Kanban-Task-Board
+- 🌐 [Live Website] Website Link: https://kanban-task-board-gold.vercel.app
 
 ### Projects I am Currently Developing
 - Algorithm and Data Structure Visualizer
