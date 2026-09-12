@@ -1,5 +1,13 @@
 <h1 align="center"> Hi, my name is Connor 👋 </h1>
 
+<p align="center">
+  Computer Science Student @ Arizona State University
+</p>
+
+<hr>
+<br>
+
+## About Me
 Software Developer based in Arizona while currently pursuing a Bachelor's Degree in Computer Science with a conecntration in Software Engineering and a Minor in Data Science at ASU. When I am not building software, I like to read, play games, and expanding my knowledge on programming, life skills, etc.
 
 ## Active Capstone Project: JobPop Web - Outer Snail Productions, LLC
