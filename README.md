@@ -41,7 +41,24 @@ I am currently pursuing a Bachelor's Degree in Computer Science with a concentra
 - 🔗 [GitHub Repository] https://github.com/CJBly/Kanban-Task-Board
 - 🌐 [Live Website] https://kanban-task-board-gold.vercel.app
 
-### Projects I am Currently Developing
+## Academic Projects
+### Rotor Encryption (C++)
+- A rotor-based file encryption and decryption program using a 28-character alphabet and configurable rotor positions.
+- *Disclaimer: This project is private by professor request.*
+
+### Dynamic Arrays / Terraformer (C)
+- Generates a procedural ASCII landmass from dynamically allocated 2D arrays and writes the raw, normalized, and final terrain maps.
+- *Disclaimer: This project is private by professor request.*
+
+### Zombie Conga (C++)
+- Implements a templated doubly linked list and simulates a zombie conga line with multiple randomized actions.
+- *Disclaimer: This project is private by professor request.*
+
+### Scheme Fundamentals Assignment (Scheme / R5RS)
+- R5RS Scheme functions covering recursion, list processing, arithmetic, and higher-order function use.
+- *Disclaimer: This project is private by professor request.*
+
+## Projects I am Currently Developing
 - Algorithm and Data Structure Visualizer
 - Flight Visualizer
 
