@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, my name is Connor 👋 </h1>
+<h1 align="center"> Hi, my name is Connor Bly 👋 </h1>
 
 <p align="center">
   Computer Science Student @ Arizona State University
@@ -12,7 +12,11 @@
 <hr>
 
 ## About Me
-I am currently pursuing a Bachelor's Degree in Computer Science with a concentration in Software Engineering, as well as a Minor in Data Science. I am also pursuing a Master's Degree in Computer Science after my admission to the Accelerated Masters program. When I am not building software, I like to read, play games, and expanding my knowledge on programming, life skills, etc.
+I am currently pursuing a Bachelor's Degree in Computer Science with a concentration in Software Engineering, as well as a Minor in Data Science. I am also currently enrolled in the Accelerated Master's program at ASU for a Master's Degree in Computer Science. I am interested in building software
+
+My current work encompasses full-stack web development, algorithm implementation and testing, statistical modeling and machine learning, and quality and assurance testing. 
+
+When I am not building software, I like to read, play games, and expanding my knowledge on programming, life skills, etc.
 
 <hr>
 
