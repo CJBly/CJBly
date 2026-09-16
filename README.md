@@ -33,7 +33,7 @@ I'm currently implementing my academic projects onto GitHub and fixing any issue
 
 <hr>
 
-## Projects
+## Featured Projects
 
 ### Active Capstone Project: JobPop Web - Outer Snail Productions, LLC
 - JobPop has both a web application and mobile application that allows for businesses to create and fill out forms, such as an oil change checklist, and workflows in order to make collecting and organizing customer information and processing customers easier and faster.
