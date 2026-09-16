@@ -12,7 +12,7 @@
 <hr>
 
 ## About Me
-I am currently pursuing a Bachelor's Degree in Computer Science with a concentration in Software Engineering, as well as a Minor in Data Science. I am also currently enrolled in the Accelerated Master's program at ASU for a Master's Degree in Computer Science. I am interested in building software
+I am currently pursuing a Bachelor's Degree in Computer Science with a concentration in Software Engineering, as well as a Minor in Data Science. I am also currently enrolled in the Accelerated Master's program at ASU for a Master's Degree in Computer Science. I am interested in building software for complex technical systems where performance, accuracy, and usability are regarded highly.
 
 My current work encompasses full-stack web development, algorithm implementation and testing, statistical modeling and machine learning, and quality and assurance testing. 
 
@@ -21,10 +21,15 @@ When I am not building software, I like to read, play games, and expanding my kn
 <hr>
 
 ## Technical Interests
-
+- Full Stack Web Development
+- AWS
+- Biological Computation
+- Statistical Modeling and Machine Learning
+- AI/ML applications and data-driven systems
 <hr>
 
 ## Current Focus
+I'm currently implementing my academic projects onto GitHub and fixing any issues present in them. I am expanding my knowledge on AWS, Biological Computation and AI applications and usage. I am also continuing to build projects that incorporate my technical interests and new interests as my knowledge base improves.
 
 <hr>
 
